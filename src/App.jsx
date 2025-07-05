@@ -31,7 +31,7 @@ import TC from "./pages/TermsAndConditions";
 import Forgot from "./pages/ForgotPassword";
 import { AuthContext } from "./AuthContext";
 import WeatherPage from "./pages/weather";
-import Marketplace from "./pages/Marketplace";
+import Marketplace from "./pages/Market";
 import Notifications from "./pages/Notifications";
 import "./app.css";
 import ImageGenerator from "./pages/ImageGenerator";
@@ -46,7 +46,7 @@ import CreateStory from "./pages/CreateStory"
 import Explore from "./pages/Explore";
 import FloatingMenu from "./components/FloatingMenu";
 import DirectMessage from "./pages/DirectMessage"
-import Logout from "./pages/logout";
+import Logout from "./pages/logoutPage";
 import Event from "./pages/Events";
 import Reports from "./pages/Reports";
 import OnboardingScreen from './OnboardingScreen';

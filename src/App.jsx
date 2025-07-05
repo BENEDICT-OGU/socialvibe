@@ -33,7 +33,7 @@ import { AuthContext } from "./AuthContext";
 import WeatherPage from "./pages/weather";
 import Marketplace from "./pages/Market";
 import Notifications from "./pages/Notifications";
-import "./app.css";
+// import "./app.css";
 import ImageGenerator from "./pages/ImageGenerator";
 // import AiAssistant from "./pages/AiAssistant";
 import Ai from "./pages/AIChatLayout";
